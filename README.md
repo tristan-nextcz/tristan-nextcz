@@ -91,13 +91,8 @@ coaching-platform business.
 
 ## My Operating System
 
-```mermaid
-flowchart LR
-    A[Observe the real system] --> B[Frame the decision]
-    B --> C[Build the smallest credible path]
-    C --> D[Verify with evidence]
-    D --> E[Leave controls and a runbook]
-```
+**Observe the real system → Frame the decision → Build the smallest credible
+path → Verify with evidence → Leave controls and a runbook**
 
 1. Start with observed state, not the desired story.
 2. Make consequential decisions and authority boundaries explicit.
