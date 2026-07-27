@@ -24,8 +24,14 @@ Together, they turn promising pilots into durable systems people can trust, oper
 [Safety model](https://github.com/next-citizen-llc/agent-bridge/blob/main/docs/security-model.md) ·
 [v0.1.0 public preview](https://github.com/next-citizen-llc/agent-bridge/releases/tag/v0.1.0)
 
+**[Monitor Off - Agents Awake](https://github.com/next-citizen-llc/monitor-off-agents-awake)** is an installable universal macOS utility that puts every connected display into real display sleep while keeping the Mac, user session, and local automation awake. Its release path separates source, package, runtime, and physical-hardware evidence.
+
+[Latest release](https://github.com/next-citizen-llc/monitor-off-agents-awake/releases/latest) ·
+[Verification guide](https://github.com/next-citizen-llc/monitor-off-agents-awake/blob/main/docs/verification.md)
+
 ## Selected field notes
 
+- [Context is an operating contract, not a prompt payload](https://github.com/next-citizen-llc/agent-bridge/blob/main/docs/field-notes/context-is-an-operating-contract.md)
 - [Authority should be explicit state, not prompt prose](https://github.com/next-citizen-llc/agent-bridge/blob/main/docs/field-notes/authority-is-state.md)
 - [A failure taxonomy for cross-harness workflows](https://github.com/next-citizen-llc/agent-bridge/blob/main/docs/field-notes/failure-taxonomy.md)
 - [Verifying an agent handoff without sharing private transcripts](https://github.com/next-citizen-llc/agent-bridge/blob/main/docs/field-notes/verifiable-handoffs.md)
