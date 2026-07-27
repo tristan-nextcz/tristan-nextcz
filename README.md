@@ -47,6 +47,15 @@ Together, they turn promising pilots into durable systems people can trust, oper
 [Reference analyzer](https://github.com/next-citizen-llc/process-intelligence-event-contract/blob/main/scripts/analyze.py) ·
 [v0.1.0](https://github.com/next-citizen-llc/process-intelligence-event-contract/releases/tag/v0.1.0)
 
+## Building now
+
+**[AI-SDLC CMMI](https://github.com/next-citizen-llc/ai-sdlc-cmmi)** is an independent public build toward an evidence-driven capability maturity assessment for agentic software delivery. The current research foundation defines workflow-scoped maturity and normalized telemetry, with planned versioned overlays for NIST AI RMF and FIDO's emerging agentic work; the assessor is not implemented yet.
+
+[Research seed](https://github.com/next-citizen-llc/ai-sdlc-cmmi/blob/main/docs/research/2026-07-17-four-levels-of-agentic-coding.md) ·
+[Assessment model](https://github.com/next-citizen-llc/ai-sdlc-cmmi/blob/main/docs/framework/assessment-model.md) ·
+[Telemetry contract](https://github.com/next-citizen-llc/ai-sdlc-cmmi/blob/main/docs/architecture/telemetry-contract.md) ·
+[Roadmap](https://github.com/next-citizen-llc/ai-sdlc-cmmi/blob/main/ROADMAP.md)
+
 ## Selected field notes
 
 - [Context is an operating contract, not a prompt payload](https://github.com/next-citizen-llc/agent-bridge/blob/main/docs/field-notes/context-is-an-operating-contract.md)
