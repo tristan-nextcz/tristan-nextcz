@@ -29,6 +29,20 @@ Together, they turn promising pilots into durable systems people can trust, oper
 [Latest release](https://github.com/next-citizen-llc/monitor-off-agents-awake/releases/latest) ·
 [Verification guide](https://github.com/next-citizen-llc/monitor-off-agents-awake/blob/main/docs/verification.md)
 
+## Reference implementations
+
+**[Agentic Context Contract](https://github.com/next-citizen-llc/agentic-context-contract)** makes objective, source authority, working state, action authority, and exit evidence explicit across bounded AI-agent work.
+
+[Schema](https://github.com/next-citizen-llc/agentic-context-contract/blob/main/schemas/agentic-context-contract.schema.json) ·
+[Executable examples](https://github.com/next-citizen-llc/agentic-context-contract/tree/main/examples) ·
+[v0.1.0](https://github.com/next-citizen-llc/agentic-context-contract/releases/tag/v0.1.0)
+
+**[Process Intelligence Event Contract](https://github.com/next-citizen-llc/process-intelligence-event-contract)** turns workflow traces into auditable cycle-time, rework, outcome, and bottleneck evidence without tying instrumentation to one analytics platform.
+
+[Event schema](https://github.com/next-citizen-llc/process-intelligence-event-contract/blob/main/schemas/process-event.schema.json) ·
+[Reference analyzer](https://github.com/next-citizen-llc/process-intelligence-event-contract/blob/main/scripts/analyze.py) ·
+[v0.1.0](https://github.com/next-citizen-llc/process-intelligence-event-contract/releases/tag/v0.1.0)
+
 ## Selected field notes
 
 - [Context is an operating contract, not a prompt payload](https://github.com/next-citizen-llc/agent-bridge/blob/main/docs/field-notes/context-is-an-operating-contract.md)
