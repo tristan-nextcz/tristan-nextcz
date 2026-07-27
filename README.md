@@ -4,6 +4,10 @@
 
 I make complex systems governable so teams and organizations can scale through process intelligence, agentic context, and evidence-led delivery.
 
+> **Creator and builder:** I created and lead the public repositories featured here. They live under
+> [Next Citizen LLC](https://github.com/next-citizen-llc) for durable ownership and governance;
+> [`@tristan-nextcz`](https://github.com/tristan-nextcz) is the human author and contributor identity.
+
 ## Operating thesis
 
 AI transition is not just a model problem. It is a product, process, context, and accountability problem.
