@@ -1,33 +1,40 @@
 # Tristan Springmeyer
 
-**Regulated technology operator for AI, cloud, controls, and platform transformation.**
+**Technology executive building AI products and governable operating models for the AI transition.**
 
-I publish practical, inspectable patterns for governed AI workflows and the systems around them.
+I make complex systems governable so teams and organizations can scale through process intelligence, agentic context, and evidence-led delivery.
 
-## Current work
+## Operating thesis
 
-**[Agent Bridge](https://github.com/next-citizen-llc/agent-bridge):** a local-first Python CLI and
-MCP bridge for bounded collaboration across coding-agent tools.
+AI transition is not just a model problem. It is a product, process, context, and accountability problem.
+
+- **Process intelligence** makes real work, bottlenecks, decisions, and outcomes visible.
+- **Agentic context** gives AI systems the goals, policies, history, tools, and authority boundaries needed to act usefully.
+- **Governable delivery** makes consequential decisions, exceptions, and evidence inspectable.
+
+Together, they turn promising pilots into durable systems people can trust, operate, and improve.
+
+## Product proof
+
+**[Agent Bridge](https://github.com/next-citizen-llc/agent-bridge)** is open-source, local-first CLI and MCP infrastructure for bounded collaboration across coding-agent tools. It treats authority, coordination state, and handoff evidence as product behavior rather than prompt convention.
 
 [90-second demo](https://github.com/next-citizen-llc/agent-bridge#90-second-demo) ·
 [Quickstart](https://github.com/next-citizen-llc/agent-bridge/blob/main/docs/quickstart.md) ·
 [Architecture](https://github.com/next-citizen-llc/agent-bridge/blob/main/docs/architecture.md) ·
 [Safety model](https://github.com/next-citizen-llc/agent-bridge/blob/main/docs/security-model.md) ·
-[v0.1.0](https://github.com/next-citizen-llc/agent-bridge/releases/tag/v0.1.0)
+[v0.1.0 public preview](https://github.com/next-citizen-llc/agent-bridge/releases/tag/v0.1.0)
 
-## Field notes
+## Selected field notes
 
 - [Authority should be explicit state, not prompt prose](https://github.com/next-citizen-llc/agent-bridge/blob/main/docs/field-notes/authority-is-state.md)
 - [A failure taxonomy for cross-harness workflows](https://github.com/next-citizen-llc/agent-bridge/blob/main/docs/field-notes/failure-taxonomy.md)
 - [Verifying an agent handoff without sharing private transcripts](https://github.com/next-citizen-llc/agent-bridge/blob/main/docs/field-notes/verifiable-handoffs.md)
 
-## How I work
+## How I operate
 
-Observe the real system → make authority explicit → deliver a small, reversible change → verify the
-live result → leave a usable handoff.
+Observe the real system → find the product wedge → make authority explicit → ship a reversible change → verify the live result → turn evidence into an operating model.
 
-Current focus: governed agent workflows, local-first developer infrastructure, and evidence-led
-modernization.
+Current focus: AI products · AI transition · process intelligence · agentic context · governed agent workflows
 
 Raleigh, North Carolina · [LinkedIn](https://www.linkedin.com/in/tristan-springmeyer) ·
 [Next Citizen](https://github.com/next-citizen-llc)
