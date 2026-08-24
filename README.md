@@ -7,6 +7,8 @@ I make complex systems governable so teams and organizations can scale through p
 > **Creator and builder:** I created and lead the public repositories featured here. They live under
 > [Next Citizen LLC](https://github.com/next-citizen-llc) for durable ownership and governance;
 > [`@tristan-nextcz`](https://github.com/tristan-nextcz) is the human author and contributor identity.
+> Structured summaries of the active public set are in
+> [`active-public-repos.yml`](./active-public-repos.yml).
 
 ## Operating thesis
 
@@ -32,6 +34,11 @@ Together, they turn promising pilots into durable systems people can trust, oper
 
 [Latest release](https://github.com/next-citizen-llc/monitor-off-agents-awake/releases/latest) ·
 [Verification guide](https://github.com/next-citizen-llc/monitor-off-agents-awake/blob/main/docs/verification.md)
+
+**[ChromaDock](https://github.com/next-citizen-llc/chromadock)** is a native macOS utility that groups Dock apps, hue-sorts each group, and draws Trash-style transparent divider lines between groups.
+
+[Latest release](https://github.com/next-citizen-llc/chromadock/releases/latest) ·
+[README](https://github.com/next-citizen-llc/chromadock#readme)
 
 ## Reference implementations
 

@@ -1,0 +1,58 @@
+# Front-matter for the public profile: active public repositories with summaries.
+# Rendered narrative lives in README.md. Ownership is Next Citizen LLC;
+# creator identity is @tristan-nextcz.
+
+active_public_repos:
+  - name: Agent Bridge
+    repo: next-citizen-llc/agent-bridge
+    url: https://github.com/next-citizen-llc/agent-bridge
+    visibility: public
+    status: shipped
+    summary: >
+      Open-source, local-first CLI and MCP infrastructure for bounded
+      collaboration across coding-agent tools. Authority, coordination
+      state, and handoff evidence are product behavior rather than prompt
+      convention.
+  - name: Monitor Off - Agents Awake
+    repo: next-citizen-llc/monitor-off-agents-awake
+    url: https://github.com/next-citizen-llc/monitor-off-agents-awake
+    visibility: private
+    status: shipped
+    summary: >
+      Installable universal macOS utility that puts every connected display
+      into real display sleep while keeping the Mac, user session, and
+      local automation awake.
+  - name: ChromaDock
+    repo: next-citizen-llc/chromadock
+    url: https://github.com/next-citizen-llc/chromadock
+    visibility: public
+    status: shipped
+    summary: >
+      Native macOS utility that groups Dock apps, hue-sorts each group,
+      and draws Trash-style transparent divider lines between groups.
+  - name: Agentic Context Contract
+    repo: next-citizen-llc/agentic-context-contract
+    url: https://github.com/next-citizen-llc/agentic-context-contract
+    visibility: public
+    status: reference
+    summary: >
+      Makes objective, source authority, working state, action authority,
+      and exit evidence explicit across bounded AI-agent work.
+  - name: Process Intelligence Event Contract
+    repo: next-citizen-llc/process-intelligence-event-contract
+    url: https://github.com/next-citizen-llc/process-intelligence-event-contract
+    visibility: public
+    status: reference
+    summary: >
+      Turns workflow traces into auditable cycle-time, rework, outcome,
+      and bottleneck evidence without tying instrumentation to one
+      analytics platform.
+  - name: AI-SDLC CMMI
+    repo: next-citizen-llc/ai-sdlc-cmmi
+    url: https://github.com/next-citizen-llc/ai-sdlc-cmmi
+    visibility: public
+    status: building
+    summary: >
+      Independent public build toward an evidence-driven capability
+      maturity assessment for agentic software delivery. Research
+      foundation is public; the assessor is not implemented yet.
